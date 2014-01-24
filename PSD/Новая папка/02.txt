@@ -1,0 +1,9 @@
+цвета ссылок в hearer'е: normal - #030303; hover - #4E4E4E; active - #FEFEFE.
+
+цвета элементов управления в слайдшоу главной страницы: normal - #030303; hover/active - #999999.
+
+поля для заполнения: поля из ZURB'а.
+
+кнопки (из ZURB'а): 
+	"apply" normal - #43ac6a; hover - #43ac6a;
+	"get in touch" normal - #008cba; hover - #007295.
