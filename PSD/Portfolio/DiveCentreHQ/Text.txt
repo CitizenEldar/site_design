@@ -1,0 +1,3 @@
+DiveCentreHQ
+A SAAS-based web application intended to maintain all activity of a diving centre like event managment, staff management, goods managment, point of sale.
+Technologies:Ruby on Rails (v. 2), HAML, Sphinx, Inherited Resources, Google Charts, jQuery/ jQuery Mobile, OpenGateway

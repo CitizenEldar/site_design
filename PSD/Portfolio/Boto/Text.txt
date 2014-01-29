@@ -1,0 +1,3 @@
+Boto
+A streamlined issue tracking, is a new issue tracking service for those who just want to cut the crap and get to work. With a light, airy design it is the minimalist's wet dream. No more work-flow interruptions.
+Technologies:Ruby on Rails (v. 3), HAML, SASS, jQuery, AJAX

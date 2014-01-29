@@ -1,0 +1,3 @@
+Vessel HQ
+Vessel HQ delivers a secure online platform for International Ship Registries to manage inspections, certificates & seafarer endorsements with real-time reporting.It also caters for smaller ship registries and local licenses.
+Technologies:

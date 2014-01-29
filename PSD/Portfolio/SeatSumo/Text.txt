@@ -1,0 +1,3 @@
+SeatSumo
+A social-based service created to share and exchange different tickets liek tickets for sport events, cinema, theater, etc.
+Technologies:Ruby on Rails (v. 2), HAML, jQuery, Facebook API, Twitter API, LinkedIn API, BitLy

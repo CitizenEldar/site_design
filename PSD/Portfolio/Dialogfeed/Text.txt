@@ -1,0 +1,3 @@
+Dialogfeed
+A unique tool created to collect and store in one single place comment feeds from different sources like Facebook, Twitter and YouTube with great possibilities to easily integrate application widget to any html page.
+Technologies:Ruby on Rails (v. 3), HAML, SASS, jQuery, PayPal API, Facebook API, Twitter API, Youtube API, LinkedIn API, Heroku, Amazon S3
